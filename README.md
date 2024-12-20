@@ -20,5 +20,5 @@ Enhanced net banking security through innovative solutions.
 
 🤝 I enjoy collaborating on projects, exploring new technologies, and continuously learning.
 
-📬 Let’s Connect: [omkesalkar0@gmail.com] | [www.linkedin.com/in/om-kesalkar]
+📬 Let’s Connect: [[omkesalkar0@gmail.com](https://mail.google.com/mail/u/0/#inbox)] | [www.linkedin.com/in/om-kesalkar]
 
