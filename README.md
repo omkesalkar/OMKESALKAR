@@ -1,25 +1,25 @@
 <h1 align="center">Hi 👋, I'm Om</h1>
-<h3 align="center">A passionate Full Stack Java developer from India</h3>
+<h3 align="center">A passionate Java developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=omkesalkar&label=Profile%20views&color=0e75b6&style=flat" alt="omkesalkar" /> </p>
 
-🎓 B.Tech in Data Science (2024) | 🖥️ Full Stack Java Certification
+🎓 B.Tech in Data Science (2024) | 🖥️ Java Developer
 
 🏆 Achievements:
 1st Rank at IEEE Innovation 2024 for a project enhancing net banking security with facial recognition.
 6-month internship in Web development at Uphill Technologies, Nagpur.
 
 💡 Skills & Technologies:
-Programming languages : Python, Java, C
-Front-End technologies : HTML, CSS, JavaScript, Bootstrap
+Programming languages : C, Java, Python, JavaScript
+Front-End technologies : HTML, CSS, Bootstrap
 Backend Technologies: Oracle
 Database: SQL
 Platforms: Eclipse IDE, PyCharm, Visual Studio Code 
 
 🌟 Projects:
 Built a client-based website for Unnati Jewellary Training Institute.
-Enhanced net banking security through innovative solutions.
+Enhance net banking security with facial recognition.
 
 🤝 I enjoy collaborating on projects, exploring new technologies, and continuously learning.
 
